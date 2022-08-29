@@ -1,0 +1,94 @@
+body{
+    background-image: url('https://media.istockphoto.com/photos/woman-embracing-a-man-outdoors-picture-id1304540339?b=1&k=20&m=1304540339&s=170667a&w=0&h=eumI7unHHDM4MT0kCWT4BbSUYH-_8avFpOaoo6oAAGY=');
+  background-repeat:no-repeat;
+  background-size:cover;
+  font-family : adobe-garamond-pro;
+  height:100%;
+  margin:0px;
+}
+#home-page{
+  display:flex;
+  flex-direction:column;
+  justify-content:center;
+}
+#focus {
+width:2px;
+height : 5px; 
+background-color:rgba(238, 238, 238,0.5);
+}
+.header{
+  text-align: center;
+  color:white;  
+}
+.header h1{
+  font-size:35px;
+}
+#navigation ul{
+  list--style-type:none;
+}
+#navigation{
+  margin-left : -45px;
+}
+#navigation li{
+  display:inline;
+  padding:20px;
+  font-size:17px;
+}
+.header p{
+  font-size:50px;
+  margin-top:250px;
+}
+h1 a{
+color:white;
+text-decoration:none;
+}
+li a{
+color:white;
+text-decoration:none;
+}
+#content p{
+padding-top:2em;
+font-size:45px;
+text-align:center;
+color:white;
+padding-bottom:1em;
+}
+#footer{
+  background-color:#EEEEEE;
+  text-align:center;
+
+  padding-bottom:1em;
+  
+}
+#footer h2{
+  padding-top:3em;
+  font-size:25px;
+}
+#footer p{
+  padding:1em;
+  font-size:0.9em;
+}
+#footer hr{
+  width:3em;
+}
+#footer a{
+  color:black;
+  text-decoration:none;
+}
+a{
+text-decoration:none;
+}
+#sorio-antonio:hover{
+  background-image: url('https://i.pinimg.com/736x/05/4c/f8/054cf86de40ec85cff0d2d208ee1d6b6--black-and-white-love-back-to-black.jpg');
+  background-repeat:no-repeat;
+  background-size:cover;
+  font-family : adobe-garamond-pro;
+  height:100%;
+  margin:0px;
+}
+
+.header hr {
+border : 0.1px solid white;
+width: 14em;
+align : center;
+}
